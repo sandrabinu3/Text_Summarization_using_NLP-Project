@@ -1,0 +1,8 @@
+{"time":"2024-12-09T18:04:19.004101697Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-09T18:04:19.005746745Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Project/Text_Summarization_using_NLP-Project/wandb/run-20241209_180418-zwcrfk3p/logs/debug-core.log"}
+{"time":"2024-12-09T18:04:19.121747628Z","level":"INFO","msg":"created new stream","id":"zwcrfk3p"}
+{"time":"2024-12-09T18:04:19.122581549Z","level":"INFO","msg":"stream: started","id":"zwcrfk3p"}
+{"time":"2024-12-09T18:04:19.122617566Z","level":"INFO","msg":"writer: Do: started","stream_id":"zwcrfk3p"}
+{"time":"2024-12-09T18:04:19.122662971Z","level":"INFO","msg":"handler: started","stream_id":"zwcrfk3p"}
+{"time":"2024-12-09T18:04:19.122692382Z","level":"INFO","msg":"sender: started","stream_id":"zwcrfk3p"}
+{"time":"2024-12-09T18:04:24.164107686Z","level":"INFO","msg":"Starting system monitor"}

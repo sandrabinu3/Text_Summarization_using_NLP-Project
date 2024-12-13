@@ -1,0 +1,32 @@
+{
+  "os": "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python": "3.10.12",
+  "startedAt": "2024-12-09T18:04:18.972763Z",
+  "program": "textSum.ipynb",
+  "git": {
+    "remote": "https://sandrabinu3:@github.com/sandrabinu3/Text_Summarization_using_NLP-Project.git",
+    "commit": "eb86515fa92e6dce410c5ff4d759139112f28c7a"
+  },
+  "email": "sandrabinu99@gmail.com",
+  "root": "/content/drive/MyDrive/Project/Text_Summarization_using_NLP-Project",
+  "host": "76947dcd833d",
+  "username": "root",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "textSum.ipynb",
+  "colab": "https://colab.research.google.com/notebook#fileId=1rvy0CsAkDbuxly8Uew_typzneCBuiytD",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "disk": {
+    "/": {
+      "total": "115658190848",
+      "used": "35949924352"
+    }
+  },
+  "memory": {
+    "total": "13609431040"
+  },
+  "cpu": {
+    "count": 1,
+    "countLogical": 2
+  }
+}
