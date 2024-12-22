@@ -1,0 +1,8 @@
+{"time":"2024-12-20T10:11:10.364943431Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-20T10:11:10.366626343Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Project/Text_Summarization_using_NLP-Project/wandb/run-20241220_101110-vho82tcg/logs/debug-core.log"}
+{"time":"2024-12-20T10:11:10.475733286Z","level":"INFO","msg":"created new stream","id":"vho82tcg"}
+{"time":"2024-12-20T10:11:10.476792443Z","level":"INFO","msg":"stream: started","id":"vho82tcg"}
+{"time":"2024-12-20T10:11:10.476834454Z","level":"INFO","msg":"writer: Do: started","stream_id":"vho82tcg"}
+{"time":"2024-12-20T10:11:10.476898949Z","level":"INFO","msg":"handler: started","stream_id":"vho82tcg"}
+{"time":"2024-12-20T10:11:10.476925256Z","level":"INFO","msg":"sender: started","stream_id":"vho82tcg"}
+{"time":"2024-12-20T10:11:14.249331347Z","level":"INFO","msg":"Starting system monitor"}
