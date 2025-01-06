@@ -1,0 +1,13 @@
+/usr/local/lib/python3.10/dist-packages/transformers/data/data_collator.py:657: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at ../torch/csrc/utils/tensor_new.cpp:278.)
+  batch["labels"] = torch.tensor(batch["labels"], dtype=torch.int64)
+Passing a tuple of `past_key_values` is deprecated and will be removed in Transformers v4.48.0. You should pass an instance of `EncoderDecoderCache` instead, e.g. `past_key_values=EncoderDecoderCache.from_legacy_cache(past_key_values)`.
+TextRank ROUGE Scores:
+100%|██████████| 5000/5000 [00:25<00:00, 199.92it/s]
+<ipython-input-71-afa2a15c3ca0>:2: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Seq2SeqTrainer.__init__`. Use `processing_class` instead.
+  trainer = Seq2SeqTrainer(
+TextRank ROUGE Scores:
+TextRank ROUGE Scores:
+100%|██████████| 5000/5000 [00:26<00:00, 191.18it/s]
+<ipython-input-133-afa2a15c3ca0>:2: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Seq2SeqTrainer.__init__`. Use `processing_class` instead.
+  trainer = Seq2SeqTrainer(
+{'TextRank': {'rouge-1': {'r': 0.3352033830525194, 'p': 0.35506256605038794, 'f': 0.329849455876316}, 'rouge-2': {'r': 0.13562988893395445, 'p': 0.13969678626535545, 'f': 0.13108813488303603}, 'rouge-l': {'r': 0.29799391489296334, 'p': 0.3183584368989262, 'f': 0.2948062716297976}}, 'Word2Vec': {'rouge-1': {'r': 0.3532262585871877, 'p': 0.3613586340444261, 'f': 0.3452132333027712}, 'rouge-2': {'r': 0.14759053111547124, 'p': 0.14954278692852438, 'f': 0.14258762720869803}, 'rouge-l': {'r': 0.2982392958853058, 'p': 0.30582449125825084, 'f': 0.29164214117929815}}, 'T5': {'rouge-1': {'r': 0.40541218528851375, 'p': 0.3874484047203149, 'f': 0.3867178063936244}, 'rouge-2': {'r': 0.19682151134750558, 'p': 0.18113163670374774, 'f': 0.18294611084813894}, 'rouge-l': {'r': 0.3802974704189513, 'p': 0.36482692545490353, 'f': 0.3634341647313973}}}
